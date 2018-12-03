@@ -5,6 +5,9 @@ This forked repo's bugfixAndNPMUpdates branch is for two things.
 1. Fix a bug in package.json where installation of gulp 4.0 stops with an error
   - Fixed. See commit 2f6ac05
 2. Update npm modules.
+  - Updated. Thought, notes:
+    - [Replace gulp-uncss with gulp-uncss](https://www.npmjs.com/package/gulp-uncss)
+    - there are quite few dependcy of dependicies, deprecated. Do `npm audit`
 
 
 ---
