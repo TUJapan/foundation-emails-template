@@ -3,7 +3,7 @@
 This forked repo's bugfixAndNPMUpdates branch is for two things.
 
 1. Fix a bug in package.json where installation of gulp 4.0 stops with an error
-  - Fixed. See commit 2f6ac05541ef0257f4b654d19c3c955bb580dc39
+  - Fixed. See commit 2f6ac05
 2. Update npm modules.
 
 
